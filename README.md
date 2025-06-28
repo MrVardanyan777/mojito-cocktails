@@ -1,12 +1,50 @@
-# React + Vite
+# Mojito Cocktails 🍸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing **landing page for a cocktail bar**, designed to showcase **GSAP animation** skills and modern frontend practices.
 
-Currently, two official plugins are available:
+![mojito banner](https://snipboard.io/5HXdrC.jpg) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Smooth GSAP animations and transitions
+- Responsive design
+- Fast build using **React** and **Vite**
+- Clean and modular component structure
+- ESLint configured for code consistency
+
+---
+
+## 🛠 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [GSAP](https://gsap.com/)
+- [ESLint](https://eslint.org/)
+
+---
+
+## 📦 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/MrVardanyan777/mojito-cocktails.git
+cd mojito-cocktails
+npm install
+npm run dev
+```
+
+Then open your browser at [http://localhost:5173](http://localhost:5173).
+
+---
+
+## 📹 Preview
+
+> Demo
+https://drive.google.com/file/d/1a7ei2lxIYAm9FAKFA7oWLK0yVeJPwjb7/view?usp=sharing
+
+## 👨‍💻 Author
+
+Built with ❤️ by [MrVardanyan777](https://github.com/MrVardanyan777)
